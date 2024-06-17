@@ -21,8 +21,8 @@ from selenium.webdriver.chrome.options import Options
 import time
 
 # Prompt the user for email and password
-email = input("roadf4good@gmail.com")
-password = input("BiniBini²")
+email = input("")
+password = input("²")
 
 # Prompt the user for the account URL and number of reports
 account_url = input("Enter the account URL you want to report: ")
